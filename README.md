@@ -1,6 +1,6 @@
 # GZR-Walls
 
-Navigate to the specific branch for each rom walls
+Navigate to the specific branch to find the walls u need
 
 I have wallpaper for each of the GZR-Roms!
 
